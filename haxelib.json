@@ -1,0 +1,12 @@
+{
+	"name": "puremvc-multicore",
+  	"license": "BSD",
+	"tags": ["framework", "puremvc", "mvc","cross","cross-platform","flash","html5","ios"],
+	"description": "PureMVC is a lightweight framework for creating applications based upon the classic Model-View-Controller design meta-pattern. This version supports modular programming through the use of Multiton Core actors instead of the Singletons used in the Standard Version.",
+	"contributors": ["ConfidantCommunications"],
+	"classPath":"src/",
+	"releasenote": "Initial release on Haxelib. ",
+	"version": "1.4.0",
+	"url": "https://github.com/PureMVC/puremvc-haxe-multicore-framework",
+	"dependencies": {}
+}
